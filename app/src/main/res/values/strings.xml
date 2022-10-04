@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Fitnes</string>
+    <string name="Slogan">На пути к совершенству!</string>
+    <string name="day">День</string>
+    <string name="days">Дней</string>
+    <string name="rest">Осталось</string>
+    <string name="exercise">Упражнений</string>
+    <string name="exercises">Упражнения</string>
+    <string name="alert">Внимание!</string>
+    <string name="back">Отмена</string>
+    <string name="reset">Сбросить</string>
+    <string name="reset_days_massage">Вы действительно хотите сбросить прогресс всех дней?</string>
+    <string name="reset_one_day_massage">Вы действительно хотите сбросить прогресс данного дня?</string>
+    <string name="done">Поздравляем!</string>
+    <string name="complete">Готово</string>
+    <string name="get_ready">Приготовьтесь</string>
+    <string name="next_ex">Слудующее упражнение</string>
+    <string name="next">Далее</string>
+    <string name="all_rest_days">Осталось 20 дней</string>
+    <string name="waiting_ex">До начала упражнений:</string>
+    <string name="complete_day">Вы закончили этот день</string>
+    <string name="day_exercise">Дни тренировок</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exercise">
+        <item>Relax|30|cat-animal.gif</item> /*0*/
+        <item>V plank|30|v_ab.gif</item>/*1*/
+        <item>Swing your legs|x50|swing_your_legs.gif</item>/*2*/
+        <item>Bike|40|bicicleta.gif</item>/*3*/
+        <item>Birch|x15|birch.gif</item>/*4*/
+        <item>Rock climber|30|rock_climber.gif</item>/*5*/
+        <item>Fold|x20|fold.gif</item>/*6*/
+        <item>Plank|45|plank.gif</item>/*7*/
+        <item>Lifting in a turn|x30|lifting_in_a_turn.gif</item>/*8*/
+        <item>Twisting|x30|twist.gif</item>/*9*/
+        <item>Full twisting|x25|full_twisting.gif</item>/*10*/
+        <item>Twisting with twist|x20|twisting_with_twist.gif</item>/*11*/
+        <item>Reverse twist|x30|reverse_twist.gif</item>/*12*/
+    </string-array>
+
+    <string-array name="day_exercise">
+        <item>3,0,3,0,12,0,12,0,9,0,9</item>
+        <item>3,0,3,0,12,0,12,0,9,0,9</item>
+        <item>3,0,3,0,12,0,12,0,9,0,9,10</item>
+        <item>3,0,3,0,12,0,12,0,9,0,9,10,0,10</item>
+        <item>3,0,3,0,12,0,12,0,9,0,9,10,0,10</item>
+        <item>3,0,3,0,12,0,12,0,9,0,9,10,0,10</item>
+        <item>3,12,9,0,10,0,10,0,10</item>
+        <item>3,12,9,0,10,0,10,0,10</item>
+        <item>3,12,9,0,10,0,10,0,10</item>
+        <item>3,0,2,0,4,0,4,0,9,0,9,10,0,10,1,0,1</item>
+        <item>3,0,2,0,4,0,4,0,9,0,9,10,0,10,1,0,1</item>
+        <item>3,0,2,0,4,0,4,0,9,0,9,10,0,10,1,0,1,7,0,7</item>
+        <item>3,0,2,0,4,0,4,0,9,0,9,10,0,10,1,0,1,7,0,7</item>
+        <item>3,0,2,0,4,0,4,0,9,0,9,10,0,10,1,0,1,7,0,7</item>
+        <item>2,0,2,0,4,0,4,0,6,0,6,0,9,0,9,10,0,10,1,0,1,7,0,7</item>
+        <item>2,0,2,0,4,0,4,0,6,0,6,0,9,0,9,10,0,10,1,0,1,7,0,7</item>
+        <item>2,0,2,0,4,0,4,0,6,0,6,0,9,0,9,10,0,10,1,0,1,7,0,7</item>
+        <item>2,0,2,0,4,0,4,0,6,0,6,0,9,0,9,10,0,10,1,0,1,7,0,7</item>
+        <item>2,4,6,9,0,9,11,0,11,0,1,0,1,7,0,7</item>
+        <item>2,4,6,9,0,9,11,0,11,0,1,0,1,7,0,7</item>
+        <item>2,4,6,9,0,9,11,0,11,0,1,0,1,7,0,7</item>
+        <item>2,4,6,9,0,9,11,0,11,0,5,0,5,0,1,0,1,7,0,7</item>
+        <item>2,4,6,9,0,9,11,0,11,0,5,0,5,0,1,0,1,7,0,7</item>
+        <item>2,4,6,9,0,9,11,0,11,0,5,0,5,0,1,0,1,7,0,7</item>
+        <item>2,4,6,9,0,9,11,0,11,0,5,0,5,0,1,0,1,7,0,7</item>
+        <item>2,4,6,9,0,9,0,8,0,8,0,11,0,11,0,5,0,5,0,1,0,1,7,0,7</item>
+        <item>2,4,6,9,0,9,0,8,0,8,0,11,0,11,0,5,0,5,0,1,0,1,7,0,7</item>
+        <item>2,4,6,9,0,9,0,8,0,8,0,11,0,11,0,5,0,5,0,1,0,1,7,0,7</item>
+        <item>2,4,6,9,0,9,0,8,0,8,0,11,0,11,0,5,0,5,0,1,0,1,7,0,7</item>
+        <item>2,4,6,9,0,9,0,8,0,8,0,11,0,11,0,5,0,5,0,1,0,1,7,0,7</item>
+    </string-array>
+</resources>
